@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - master
-      - migrate-to-travis
   pull_request:
     branches:
       - master
